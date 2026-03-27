@@ -17,7 +17,7 @@
 2. Ở thanh menu trên cùng, hover vào **Journey Builder**.
 3. Trong dropdown, chọn **Automation Studio**.
 
-![Salesforce Marketing Cloud menu](sfmc.png)
+![Salesforce Marketing Cloud menu](images/sfmc.png)
 
 ## Bước 2: Mở danh sách SQL Query
 
